@@ -11,7 +11,6 @@ This project is a web application that enables real-time voice conversations wit
 *   **Visual Feedback:** Includes an audio visualizer for microphone input and status indicators for different states (listening, processing, speaking).
 *   **Conversation History:** Displays the ongoing chat.
 *   **Customizable Voice Output:** Options to change the AI's voice (from available system voices), speed, and pitch.
-*   **(Temporarily Disabled) Barge-in:** Functionality for the user to interrupt the AI while it's speaking (can be re-enabled and tuned).
 
 ## Prerequisites
 
